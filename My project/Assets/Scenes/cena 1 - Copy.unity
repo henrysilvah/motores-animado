@@ -12232,7 +12232,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade: 10
-  focaPulo: 5
+  focaPulo: 7
   noChao: 0
   andando: 0
 --- !u!70 &2126610430
